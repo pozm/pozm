@@ -1,5 +1,5 @@
 ### Hi 👋
-
+<!-- HEY YOU!!! WHY ARE YOU LOOKING AT SRCCCC -->
 I program stuff. 
 Pretty much anything from front end, to software or game development
 
