@@ -8,3 +8,4 @@ You can find methods to contact me @ https://www.pozm.pw/contact
 [![Stats](https://github-readme-stats.vercel.app/api?username=pozm&show_icons=true&count_private=true&theme=radical)]()
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pozm&hide=css&layout=compact&theme=radical)]()
+<sup><sub>i think i accidentally uploaded node modules...</sub></sup>
