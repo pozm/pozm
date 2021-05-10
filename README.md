@@ -10,9 +10,9 @@ because i forget to run git push
 
 ## Technologies which i know
 ### Programming languages
-Javascript, Typescript, Lua, C#, c++, Python, 
+Javascript, Typescript, Lua, C#, c++, Python, Go
 ### Mark up languages 
-Css, Sass, Html, MarkDown
+Css, Sass, Html, MarkDown, Less
 ### Database softwares
 Mysql, Postgres, mariaDB, Microsoft Access
 ### Operating systems
