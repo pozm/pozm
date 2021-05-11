@@ -1,5 +1,7 @@
 ### Hi 👋
 
+I plan to do freelance programming, in the near future. as i have expirence with many languages and find to fun to program.
+I used to be the CTO at PSU, i have worked on some real world applications, such as their obfuscator, bot or api. 
 
 #### Contact
 You can find methods to contact me @ https://www.pozm.pw/contact
