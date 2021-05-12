@@ -1,6 +1,12 @@
 ### Hi 👋
 
-I plan to do freelance programming soon as I have experience with many languages and fun to program. I was the former CTO at PSU; I have worked on some real-world applications, such as their obfuscator, bot, or API.
+I plan to do freelance programming soon as I have experience with many languages and fun to program. I was the former CTO at PSU; while I was at PSU, I worked on real-world applications, such as their Obfuscator, bot, and API.
+
+I focus mainly on web development, although I am able to accomplish tasks that require a different skill-set (software development)
+
+I've worked previously on a multitude of projects which can be found in here, in my github.
+
+I am able to work in a time sensitive, stressful environment as-well as communicate to other project members effectively.
 
 
 #### Contact
