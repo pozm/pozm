@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I plan to do freelance programming soon as I have experience with many languages and fun to program. I was the former CTO at PSU; while I was at PSU, I worked on real-world applications, such as their Obfuscator, bot, and API.
+I plan to do freelance programming soon as I have experience with many languages and fun to program. I was the former CTO at PSU; While I was at PSU, I worked on real-world applications, such as their Obfuscator, bot, and API.
 
 I focus mainly on web development, although I am able to accomplish tasks that require a different skill-set (software development)
 
@@ -18,9 +18,9 @@ because i forget to run git push
 
 ## Technologies which I know
 ### Programming languages
-Javascript, Typescript, Lua, C#, C++, Python, Go
+Javascript, Typescript, Lua, C#, Python, Go, SOMEWHAT C++, Rust, PHP
 ### Mark up languages 
-Css, Sass, Html, MarkDown, Less
+CSS, Sass, HTML, MarkDown, Less
 ### Database softwares
 Mysql, Postgres, MariaDB, Microsoft Access
 ### Operating systems
@@ -35,5 +35,5 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
   [![Stats](https://github-readme-stats.vercel.app/api?username=pozm&show_icons=true&count_private=true&theme=radical)]()
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pozm&hide=css&layout=compact&theme=radical)]()
-  <sup><sub>i think i accidentally uploaded node modules...</sub></sup>
+  <sup><sub>I think I accidentally uploaded node modules...</sub></sup>
 </details>
