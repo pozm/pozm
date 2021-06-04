@@ -32,8 +32,8 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 <details>
    <summary>Stats</summary>
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=pozm&show_icons=true&count_private=true&theme=radical)]()
+  [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=pozm&count_private=true&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&custom_title=Pozm's%20Most%20Used%20Languages&include_all_commits=true)]()
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pozm&hide=css&layout=compact&theme=radical)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pozm&layout=compact&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&hide=css&custom_title=Pozm's%20Most%20Used%20Languages)]()
   <sup><sub>I think I accidentally uploaded node modules...</sub></sup>
 </details>
