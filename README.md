@@ -32,8 +32,8 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 <details>
    <summary>Stats</summary>
 
-  [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=pozm&count_private=true&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&custom_title=Pozm's%20Most%20Used%20Languages&include_all_commits=true)]()
+  [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=pozm&count_private=true&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&custom_title=Pozm's%20Most%20Used%20Languages&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pozm&layout=compact&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&hide=css&custom_title=Pozm's%20Most%20Used%20Languages)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pozm&layout=compact&bg_color=2B2A33&text_color=C9D1D9&title_color=00DDFF&icon_color=009AB2&border_color=4B4959&border_radius=10&hide=css&custom_title=Pozm's%20Most%20Used%20Languages)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   <sup><sub>I think I accidentally uploaded node modules...</sub></sup>
 </details>
