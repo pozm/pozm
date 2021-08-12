@@ -57,10 +57,10 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 
 [![image](https://cdn.discordapp.com/attachments/846116324157554698/875453674464362558/MingGwGotMeActinUnwise.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-#### Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=pozm&theme=dracula&margin-w=15&no-bg=true&margin-h=15)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <details>
    <summary>Stats</summary>
+   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=pozm&theme=dracula&margin-w=15&no-bg=true&margin-h=15)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
    
   [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=pozm&count_private=true&bg_color=414257&text_color=C9D1D9&title_color=D779BC&icon_color=B268A0&border_color=222222&border_radius=10&custom_title=Pozm's%20Statistics&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
