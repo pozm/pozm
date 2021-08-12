@@ -53,6 +53,8 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 
 -->
 
+### Motivational Quote
+
 [![image](https://cdn.discordapp.com/attachments/846116324157554698/875453674464362558/MingGwGotMeActinUnwise.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 #### Trophys
