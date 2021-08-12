@@ -53,6 +53,9 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 
 -->
 
+![image](https://user-images.githubusercontent.com/44528100/129252334-987057f1-3559-4f35-87ec-e45b742a4e14.png)
+
+
 #### Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=pozm&theme=dracula&margin-w=15&no-bg=true&margin-h=15)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <details>
