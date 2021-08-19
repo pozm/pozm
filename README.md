@@ -68,3 +68,4 @@ React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
   <sup><sub>I think I accidentally uploaded node modules...</sub></sup>
   
 </details>
+<sup><sub>it's gnu/linux not linux!!!</sub></sup>
