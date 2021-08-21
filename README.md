@@ -28,7 +28,7 @@ I am able to work in a time sensitive, stressful environment as-well as communic
 -->
 
 #### Contact
-You can find methods to contact me @ https://www.pozm.pw/contact
+You can find methods to contact me @ https://astolfo.uk/contact
 Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/288062966803333120/)
 
 #### Why are your commits terrible and good?
