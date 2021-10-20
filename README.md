@@ -13,20 +13,9 @@ Pretty much anything from front end, to software or game development
 
 #### About me
 Im a programmer from britain. I primarily work with web related stuff but i know pretty much everything else. Im currently interested in game "cheating" and i have been doing things with it. I used to work for PSU and i made and developed some things which are being used in real world practice, for example their discord bot, or their api. I worked on their obfuscator although not as much as the other two where i build them from scratch. Im currently working on a backend for an undisclosed company. 
-<!---
 
-I plan to do freelance programming soon as I have experience with many languages and fun to program. I was the former CTO at PSU; while I was at PSU, I worked on real-world applications, such as their Obfuscator, bot, and API.
-
-I focus mainly on web development, although I am able to accomplish tasks that require a different skill-set (software development)
-
-I've worked previously on a multitude of projects which can be found in here, in my github.
-
-I am able to work in a time sensitive, stressful environment as-well as communicate to other project members effectively.
-
-// look bad
-
--->
-
+#### What I'm currently working on
+As of writing, i am working on MoonSecV4 which is an obfuscator for Lua. [[Undisclosed]]
 #### Contact
 You can find methods to contact me @ https://astolfo.uk/contact
 Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/288062966803333120/)
