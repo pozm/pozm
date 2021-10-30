@@ -12,10 +12,8 @@ Pretty much anything from front end, to software or game development
 - You shouldn't really use python for anything which isn't data related or machine learning.
 
 #### About me
-Im a programmer from britain. I primarily work with web related stuff but i know pretty much everything else. Im currently interested in game "cheating" and i have been doing things with it. I used to work for PSU and i made and developed some things which are being used in real world practice, for example their discord bot, or their api. I worked on their obfuscator although not as much as the other two where i build them from scratch. Im currently working on a backend for an undisclosed company. 
+Im a programmer from britain. I primarily work with web related stuff but i know pretty much everything else. Im currently interested in game "cheating" and i have been doing things with it. I used to work for PSU and i made and developed some things which are being used in real world practice, for example their discord bot, or their api. I worked on their obfuscator although not as much as the other two where i build them from scratch.
 
-#### What I'm currently working on
-As of writing, i am working on MoonSecV4 which is an obfuscator for Lua. [[Undisclosed]]
 #### Contact
 You can find methods to contact me @ https://astolfo.uk/contact
 Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/288062966803333120/)
