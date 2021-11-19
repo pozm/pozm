@@ -39,11 +39,12 @@ Windows 7-10, Ubuntu 18-20, Arch Linux
 React, React Native, NextJS, Bootstrap, VueJS, NuxtJS
 
 -->
-
+<!---
+xd
 ### Motivational Quote
 
 [![image](https://cdn.discordapp.com/attachments/846116324157554698/875453674464362558/MingGwGotMeActinUnwise.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+-->
 <details>
    <summary>Stats</summary>
    
