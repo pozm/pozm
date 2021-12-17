@@ -16,7 +16,7 @@ Im a programmer from britain. I primarily work with web related stuff but i know
 
 #### Contact
 You can find methods to contact me @ https://astolfo.uk/contact
-Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/288062966803333120/)
+Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/644348720263200769/)
 
 #### Why are your commits terrible and good?
 Because I forget to run git push
