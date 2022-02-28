@@ -5,11 +5,11 @@ Pretty much anything from front end, to software or game development
 
 
 #### Unpopular opinions
-- Using Typescript over Javascript is always a preference for me when using Web related things.
-- Using go for backends should be a standard.
-- Using c# over java should be a standard
-- Doing game cheating or similar should only be done in c++, not c# or some other stuff unless the game doesn't compile to asm.
-- You shouldn't really use python for anything which isn't data related or machine learning.
+- Using Typescript over Javascript is always a preference for me when using Web related things. (i also like to incorporate WASM as much as possible where applicable)
+- Using compiled languages for backends should be a standard. (go, rust)
+- Using c# over java should be a standard 
+- Game cheating should primarily be done in c++, with c# being an exception for external usages.
+- You shouldn't really use python for anything which isn't data related or machine learning. (yes i am negatively biased towards python)
 
 #### About me
 Im a programmer from britain. I primarily work with web related stuff but i know pretty much everything else. Im currently interested in game "cheating" and i have been doing things with it. I used to work for PSU and i made and developed some things which are being used in real world practice, for example their discord bot, or their api. I worked on their obfuscator although not as much as the other two where i build them from scratch.
@@ -17,10 +17,22 @@ Im a programmer from britain. I primarily work with web related stuff but i know
 #### Contact
 You can find methods to contact me @ https://astolfo.uk/contact
 Or if you want to contact me through discord you can via [clicking here](https://discordapp.com/users/644348720263200769/)
+the discord account is an older account, do not expect a response and currently the website is down, i can't be bothered paying for hosting when it's pretty much useless atm.
+and if i have a main website i want it to be actually interesting, and i just haven't had any ideas yet. 
 
 #### Why are your commits terrible and good?
 Because I forget to run git push
 
+#### Technologies i like
+- Currently i've been very interested in rust and packages which come with it, for example rocket which is a http server
+- I also like some frontend / web development utilties, for example tailwind css which makes css not horrendous to work with
+- Working with ORM's is pretty much a standard for me, i don't really like writing raw sql since im pretty bad at it, and ORM's just simplify the entire process even if the queries suck.
+
+#### Languages im using at the moment
+**Rust** - really fast and easy to use while still being compiled and can be compiled to WASM really easily giving it even more usage in frontend development where speed is really necessary and you're unable to get the performance in js.
+**Typescript** - Javascript with types, just infinitely better than standalone javascript as it gives insight into errors which you will encounter before runtime which is a life safer and has entirely changed my workflow with javascript making it more sane. It can also be transpiled into older versions of javascript albeit IE is pretty much never used now and most browsers are chromium.
+**C#** - I like working with c# for more connected or desktop-like applications as it's just really nice and easy to use, the tools for this language are amazing and just make the expirence of using it so much better.
+**C++** - I Don't really use c++ that much as i will usually use rust or C# more, but the undisputed place where i always use c++ is memory cheating as it's just way easier to do in c++ especially for internal cheats.
 
 
 <!---
