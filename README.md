@@ -29,10 +29,10 @@ Because I forget to run git push
 - Working with ORM's is pretty much a standard for me, i don't really like writing raw sql since im pretty bad at it, and ORM's just simplify the entire process even if the queries suck.
 
 #### Languages im using at the moment
-**Rust** - really fast and easy to use while still being compiled and can be compiled to WASM really easily giving it even more usage in frontend development where speed is really necessary and you're unable to get the performance in js.
-**Typescript** - Javascript with types, just infinitely better than standalone javascript as it gives insight into errors which you will encounter before runtime which is a life safer and has entirely changed my workflow with javascript making it more sane. It can also be transpiled into older versions of javascript albeit IE is pretty much never used now and most browsers are chromium.
-**C#** - I like working with c# for more connected or desktop-like applications as it's just really nice and easy to use, the tools for this language are amazing and just make the expirence of using it so much better.
-**C++** - I Don't really use c++ that much as i will usually use rust or C# more, but the undisputed place where i always use c++ is memory cheating as it's just way easier to do in c++ especially for internal cheats.
+- **Rust** - really fast and easy to use while still being compiled and can be compiled to WASM really easily giving it even more usage in frontend development where speed is really necessary and you're unable to get the performance in js.
+- **Typescript** - Javascript with types, just infinitely better than standalone javascript as it gives insight into errors which you will encounter before runtime which is a life safer and has entirely changed my workflow with javascript making it more sane. It can also be transpiled into older versions of javascript albeit IE is pretty much never used now and most browsers are chromium.
+- **C#** - I like working with c# for more connected or desktop-like applications as it's just really nice and easy to use, the tools for this language are amazing and just make the expirence of using it so much better.
+- **C++** - I Don't really use c++ that much as i will usually use rust or C# more, but the undisputed place where i always use c++ is memory cheating as it's just way easier to do in c++ especially for internal cheats.
 
 
 <!---
