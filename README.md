@@ -34,6 +34,9 @@ Because I forget to run git push
 - **C#** - I like working with c# for more connected or desktop-like applications as it's just really nice and easy to use, the tools for this language are amazing and just make the expirence of using it so much better.
 - **C++** - I Don't really use c++ that much as i will usually use rust or C# more, but the undisputed place where i always use c++ is memory cheating as it's just way easier to do in c++ especially for internal cheats.
 
+#### poggers
+[![pog technologies](https://skillicons.dev/icons?i=ts,wasm,svelte,rust,cpp,go,postgresql,prisma,tailwind,vscode)](https://skillicons.dev)
+
 
 <!---
 
