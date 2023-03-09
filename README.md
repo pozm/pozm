@@ -1,12 +1,10 @@
 ### Hi 👋
 <!-- HEY YOU!!! WHY ARE YOU LOOKING AT SRCCCC -->
-Im a programmer primarily intrested in low level systems and concepts such as:
-- Reverse engineering
-- Memory manipulation
-- Drivers
+I like to program websites (front and back), applications, and i enjoy working low level (memory manipulation).
+#### My favourite projects:
+- [`mci`](https://github.com/pozm/mci) - The ability to interact with minecraft through rust using JNI. Mci will make everything easy on the developer just allowing them to write the code to interact without having to worry about the caviats with JNI. Mci can automatically generate defs for every minecraft class, field, method and arguments.
+- [`gdke`](https://github.com/pozm/gdke) | [`godot-key-extract`](https://github.com/pozm/godot-key-extract) - allows you to retrieve godot encryption keys without the hassle of reverse engineering. all you need to do is run the executable or inject the dll and you will easily retrieve the key.
 
-Along side low level concepts i enjoy usermode and web programs too
+------
 
-🥴 Currently waiting for nvidia open source drivers to fully support DSC on linux.
-
-🤢 I dislike python for production systems. 
+i wish i use linux but there are so many downsides to using it
