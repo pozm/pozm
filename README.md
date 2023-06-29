@@ -8,7 +8,4 @@ I like to program websites (front and back), applications, and i enjoy working l
 #### My favourite languages:
 - Rust
 - Typescipt
-- Svelte
-------
-
-Eagerly waiting for the day for linux to be viable for me.
+- Go
