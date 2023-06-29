@@ -25,4 +25,5 @@ I like to program websites (front and back), applications, and i enjoy working l
   - Expressjs
   - axum
   - actix-web
+  - gin
 
