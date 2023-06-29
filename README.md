@@ -9,3 +9,20 @@ I like to program websites (front and back), applications, and i enjoy working l
 - Rust
 - Typescipt
 - Go
+
+#### Web technologies i'm familiar with:
+- Web frameworks
+  - React
+    - Nextjs
+    - Gatsby
+  - Solidjs
+  - Vue
+    - Nuxtjs
+  - Svelte/SvelteKit
+- Web proxies
+  - Nginx
+- Server frameworks
+  - Expressjs
+  - axum
+  - actix-web
+
