@@ -7,7 +7,7 @@ I like to program websites (front and back), applications, and i enjoy working l
 - [`poggers`](https://github.com/pozm/poggers) - Provides an easy to use api to access memory of other applications. This is mostly used to game cheat but can also be used for game modding and various other things, for example gdke uses it!
 #### My favourite languages:
 - Rust
-- Typescipt
+- Typescript
 - Go
 
 #### Web technologies i'm familiar with:
