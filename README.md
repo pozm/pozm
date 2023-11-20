@@ -14,13 +14,13 @@ I like to program websites (front and back), applications, and i enjoy working l
 - Web frameworks
   - React
     - Nextjs
-    - Gatsby
   - Solidjs
   - Vue
     - Nuxtjs
   - Svelte/SvelteKit
 - Web proxies
   - Nginx
+  - Caddy
 - Server frameworks
   - Expressjs
   - axum
